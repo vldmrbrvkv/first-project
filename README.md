@@ -1,7 +1,7 @@
 # first-project
 ### 
 
-'git add .'
+`git add.`
 
 команды в терминале
 
